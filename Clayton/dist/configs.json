@@ -1,0 +1,18 @@
+{
+  "timeZone": "en-US",
+  "rotateProxy": false,
+  "skipInvalidProxy": false,
+  "proxyRotationInterval": 2,
+  "delayEachAccount": [5, 8],
+  "timeToRestartAllAccounts": 300,
+  "howManyAccountsRunInOneTime": 10,
+  "doTasks": true,
+  "doPremiumTasks": false,
+  "playGames": true,
+  "amountOfGames": {
+    "clayWheel": 1,
+    "1024": 1,
+    "stack": 1,
+    "clayBall": 1
+  }
+}

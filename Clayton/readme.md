@@ -1,5 +1,8 @@
 # 🚀 Bot Setup Instructions
 
+> [Termux guides if you run on mobile](https://github.com/MeoMunDep/Guides-for-using-my-script-on-termux.)
+
+
 Welcome to the bot setup guide! Follow the steps below to install and configure the bot correctly. This guide is designed to be beginner-friendly, with clear explanations for each step.
 
 ---
@@ -25,7 +28,7 @@ Before running the bot, make sure you have the following installed:
 - **Python** (Version: `3.11.9`)
 - **pip** (Version: `24.3.1`)
 
-Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257/2627).
+Download Python and pip here: [Download Link](https://t.me/KeoAirDropFreeNe/257/2627).
 
 ---
 

@@ -1,6 +1,6 @@
 # 🚀 Bot Setup Instructions
 
-> [Termux guides if you run on mobile](https://github.com/MeoMunDep/Guides-for-using-my-script-on-termux.)
+> [Termux guides if you run on mobile](https://github.com/MeoMunDep/Guides-for-using-my-script-on-termux)
 
 
 Welcome to the bot setup guide! Follow the steps below to install and configure the bot correctly. This guide is designed to be beginner-friendly, with clear explanations for each step.
@@ -127,25 +127,25 @@ _Note: each row for each account_
 2. Run the bot using the following command:
 
    ```bash
-   python bot.py
+   python meomundep.py
    ```
 
    or
 
    ```bash
-   python3 bot.py
+   python3 meomundep.py
    ```
 
    or
 
    ```bash
-   py bot.py
+   py meomundep.py
    ```
 
    or
 
    ```bash
-   py3 bot.py
+   py3 meomundep.py
    ```
 
 ---

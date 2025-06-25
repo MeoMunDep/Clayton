@@ -95,14 +95,14 @@ while true; do
             print_yellow "Checking Python and configuration..."
             check_python
 
-            if [ ! -f bot.py ]; then
-                print_red "Error: bot.py not found in current directory!"
+            if [ ! -f meomundep.py ]; then
+                print_red "Error: meomundep.py not found in current directory!"
                 read -p "Press Enter to continue..."
                 continue
             fi
 
             print_green "Starting the bot..."
-            python bot.py
+            python meomundep.py
             read -p "Press Enter to continue..."
             ;;
         4)

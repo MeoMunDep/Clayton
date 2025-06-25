@@ -75,14 +75,14 @@ if errorlevel 1 (
     goto MENU
 )
 
-if not exist bot.py (
-    echo Error: bot.py not found in current directory!
+if not exist meomundep.py (
+    echo Error: meomundep.py not found in current directory!
     pause
     goto MENU
 )
 
 echo Starting the bot...
-python bot.py
+python meomundep.py
 pause
 goto MENU
 
